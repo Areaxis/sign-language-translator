@@ -1,0 +1,9 @@
+tensorflow
+mediapipe
+numpy
+cvzone
+cv2
+tkinter
+PIL
+keras
+
