@@ -29,3 +29,6 @@ pip install -r requirements.txt
 **Run the app**
 
 python app.py
+
+<img width="1303" height="687" alt="sign" src="https://github.com/user-attachments/assets/c9f117e4-7a62-4547-b4c8-4fd482c20d93" />
+(My Project Partner in the image)
